@@ -1,5 +1,5 @@
 # Project-7
-Receptive Field based on th network in Page 6 of  https://arxiv.org/pdf/1409.4842.pdf 
+Receptive Field based on the network in Page 6 of  https://arxiv.org/pdf/1409.4842.pdf 
 
 **Layers**|**k**|**s**|**jin**|**jout**|**rin**|**rout**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
